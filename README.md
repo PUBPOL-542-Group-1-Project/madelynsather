@@ -1,1 +1,1 @@
-# madelynsather
+# This is Madelyn Sather's repository for PubPol 542. This repository includes the code for cleaning the Graduate and Drop Out rate dataset for all schools in Washington state in the 2018-2019 school year, as well as the original and cleaned dataset (graduation.csv) used for the merged datafile.
